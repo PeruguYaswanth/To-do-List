@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Farm To-Do List App
 
 ## Description
@@ -28,3 +29,7 @@ npm run dev
 Checkout my: [To-do List](https://github.com/PeruguYaswanth/To-do-List.git)
 
 
+=======
+# To-do-List
+A Full-Stack To-Do-List  application that enables users to Create, Update, and Delete tasks with ease. Built using React for the frontend and fastAPI for the backend, the application demonstrates efficient state managemaent and API integration.
+>>>>>>> 3154c97 (Initial commit)
