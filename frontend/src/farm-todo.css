@@ -1,0 +1,105 @@
+.container{
+    text-align: center;
+    margin-top:200px;
+    border: none;
+    border-radius: 5px;
+    background-color: rgba(245, 245, 245, 0.597);
+    min-height: 50vh;
+    max-width: 500px;
+    margin-left: 500px;
+}
+.container h1{
+    margin-top:30px;
+}
+.container input{
+    margin-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 1px solid black;
+    border-radius: 4px;
+    font-weight: 400;
+}
+.container .add-btn{
+    margin-left: 10px;
+    border: 1px solid black;
+    border-radius: 4px;
+    background-color: rgb(31, 109, 212);
+    color: black;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 16px;
+    padding-right: 16px;
+    margin-top:20px;
+}
+.container .add-btn:hover{
+    background-color: rgb(4, 0, 255);
+    cursor: pointer;
+}
+.container .edit-btn{
+    margin-left: 10px;
+    border: 1px solid black;
+    border-radius: 4px;
+    background-color: rgb(85, 33, 95);
+    color:white;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 16px;
+    padding-right: 16px;
+
+}
+.container .edit-btn:hover{
+    background-color:rgb(139, 13, 230);
+    cursor: pointer;
+}
+.container .delete-btn{
+    margin-left: 10px;
+    border: 1px solid black;
+    border-radius: 4px;
+    background-color: rgb(189, 33, 33);
+    color:white;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 16px;
+    padding-right: 16px;
+}
+.container .delete-btn:hover{
+    background-color:rgb(255, 0, 0);
+    cursor: pointer;
+}
+.container .save-btn{
+    margin-left: 10px;
+    border: 1px solid black;
+    border-radius: 4px;
+    background-color: rgb(41, 173, 41);
+    color:white;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 16px;
+    padding-right: 16px;
+}
+.container .save-btn:hover{
+    background-color:rgb(0, 255, 0);
+    cursor: pointer;
+}
+.container .cancel-btn{
+    margin-left: 10px;
+    border: 1px solid black;
+    border-radius: 4px;
+    background-color:white;
+    color:rgb(128, 128, 128);
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 16px;
+    padding-right: 16px;
+}
+.container .cancel-btn:hover{
+    background-color:rgba(220, 220, 220, 0.337);
+    cursor: pointer;
+}
+.container li{
+    margin-bottom: 10px;
+    margin-left: 0px;
+    margin-top: 15px;
+}
